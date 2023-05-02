@@ -1,6 +1,9 @@
 # restaurant-recommender-system
 A web application I created for the deployment of  recommender-system 
+<br>
+<br>
 Screenshots from the application:
+<br>
 <br>
 ![page1](https://user-images.githubusercontent.com/90700143/235721770-a67a3384-96ea-4b60-9a81-ceefa23c4938.PNG)
 <br>
